@@ -1,4 +1,4 @@
-# merbl run
+# Merbl Run
 
 Merbl Run is a 3d printed marble run created in the software Onshape.
 ![Merbl Run CAD](Screenshot%202026-10-17%20181234.png)
